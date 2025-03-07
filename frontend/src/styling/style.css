@@ -1,0 +1,9 @@
+.navbar {
+  background-color: brown;
+  margin-top: 0px;
+}
+.navbar ul li {
+  display: inline-block;
+  margin-inline: 30px;
+  /* margin-right: ; */
+}
